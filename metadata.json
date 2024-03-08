@@ -1,0 +1,35 @@
+[
+    {
+        "created_at": "01/17/2024, 14:56:04",
+        "dataset": null,
+        "description": "",
+        "id": "acc1d6abdac44eef64956b6b12c79414577e8582995540ccd1c3f29d165b80a6",
+        "model": null,
+        "name": "Test",
+        "owner": "usama",
+        "task": "detection",
+        "type": "training"
+    },
+    {
+        "created_at": "03/08/2024, 12:58:43",
+        "dataset": null,
+        "description": "",
+        "id": "4f41c26e5471593ce94907987df01a1790ca5f70e7453f91ea8d3353ea351d11",
+        "model": null,
+        "name": "Testingdfki",
+        "owner": "usama",
+        "task": "classification",
+        "type": "training"
+    },
+    {
+        "created_at": "03/08/2024, 12:59:52",
+        "dataset": null,
+        "description": "",
+        "id": "8a489038ac34bed905b1bca865f6c2fcd1dce9f389adb9ecfeda47da562ae971",
+        "model": null,
+        "name": "dfkitesting2",
+        "owner": "usama",
+        "task": "classification",
+        "type": "training"
+    }
+]

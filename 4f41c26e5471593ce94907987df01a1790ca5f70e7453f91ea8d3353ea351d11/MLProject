@@ -1,0 +1,7 @@
+entry_points:
+- main:
+    command: python tools/train.py
+    parameters:
+      config: path
+name: testingdfki
+python_env: environment.yaml
